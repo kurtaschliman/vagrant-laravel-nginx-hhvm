@@ -1,3 +1,5 @@
 /atlassian-ide-plugin.xml
 /Vagrant Laravel Nginx HHVM Base.iml
 /.idea/
+/puppet/modules/*
+!/puppet/modules/.gitkeep
